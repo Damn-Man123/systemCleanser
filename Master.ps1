@@ -8,7 +8,7 @@ $TargetPaths = @(
     "C:\Program Files",
     "C:\Program Files (x86)",
     "C:\Windows",  
-    "C:\Users\Admin\Downloads",
+    "C:\Users\Admin\Downloads"
     # Add more paths here: "C:\Users\Admin\Videos", etc.
 )
 $TaskName = "BLT_PerpetualFile"
